@@ -1,6 +1,8 @@
 # EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-
-## Aim: To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
-## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+## Aim: 
+To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
+## Components required: 
+STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 #### Hardware Overview
 A typical soil moisture sensor consists of two parts.
@@ -97,13 +99,17 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 
-
-
+```
 ## Output screen shots on serial monitor   :
  
- 
- 
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output1.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output2.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output3.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output4.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output5.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output6.jpeg)
  
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
