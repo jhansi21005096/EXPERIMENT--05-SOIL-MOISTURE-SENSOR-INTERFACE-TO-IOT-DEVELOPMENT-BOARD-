@@ -100,6 +100,32 @@ GND is the ground pin.
 
 ## STM 32 CUBE PROGRAM :
 ```
+while (1)
+{
+HAL_ADC_Start (&hadc);
+
+HAL_ADC PollForConversion (&hadc,100); adc_val = HAL_ADC_GetValue (shadc);
+
+HAL_ADC Stop (&hadc);
+
+HAL Delay (500);
+
+printf("ADC VALUE: %ld\n", adc_val);
+
+if (adc_val<500)
+
+HAL_GPIO_WritePin (GPIOA, GPIO_PIN_0, GPIO_PIN_RESET)::
+
+}
+
+if (adc_val>500)
+
+{
+
+HAL_GPIO_Write Pin (GPIOA, GPIO_PIN_0, GPIO_PIN_SET) ::
+
+}
+
 
 ```
 ## Output screen shots on serial monitor   :
