@@ -130,12 +130,10 @@ HAL_GPIO_Write Pin (GPIOA, GPIO_PIN_0, GPIO_PIN_SET) ::
 ```
 ## Output screen shots on serial monitor   :
  
- ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output1.jpeg)
- ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output2.jpeg)
- ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output5.jpeg)
- ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output6.jpeg)
- ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output3.jpeg)
- ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output4.jpeg)
- 
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output7.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output8.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output9.jpeg)
+ ![output](https://github.com/jhansi21005096/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/blob/main/output10.jpeg)
+
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
